@@ -9,7 +9,7 @@ Frontend
 <hr>
 
 ## Deployed App
-- [Live on Netlify](main--ravi-codevisual.netlify.app/)
+- Netlify
 <hr>
 ## Directory Structure
 <hr>
