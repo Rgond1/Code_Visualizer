@@ -20,7 +20,7 @@ Frontend
  │ ├─ image/
  │ ├─ js/
  ├─ index.html
- ├─ Various HTML files
+ ├─ HTML files
  ├─ README.md
 </pre>
 <hr>
